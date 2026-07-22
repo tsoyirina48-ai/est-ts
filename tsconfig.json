@@ -1,0 +1,13 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "target": "esnext",
+    "outDir": "dist",
+    "rootDir": "./src",
+    "moduleDetection": "force",
+    "module": "esnext",
+    "strict": true,
+    "strictNullChecks": true,
+  }
+}
+
